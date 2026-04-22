@@ -1,3 +1,5 @@
+import MatchGame from "./MatchGame";
+
 export default function App() {
-  return <div>PlayYourPhotos loading...</div>;
+  return <MatchGame />;
 }
